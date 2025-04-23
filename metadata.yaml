@@ -1,0 +1,39 @@
+_repo: Die-Baumwollpflucker-b-Als-Fortsetzungsroman-im-Vorwarts-1925_75795
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Traven, B.
+    aliases:
+    - Feige, Hermann Albert Otto Max
+    - Wienecke, Albert Otto Max
+    - Marut, Ret
+    - Torsvan, Berick Traven
+    - Croves, Hal
+    birthdate: 1882
+    deathdate: 1969
+    gutenberg_agent_id: '53904'
+    url: http://www.gutenberg.org/2009/agents/53904
+    wikipedia:
+    - https://en.wikipedia.org/wiki/B._Traven
+    - https://de.wikipedia.org/wiki/B._Traven
+description: ''
+gutenberg_issued: '2025-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75795'
+language: de
+pgterms:marc904: https://www.fes.de/bibliothek/vorwaerts-blog/vorwaerts-digitalisierung
+pgterms:marc905: 20211024081322traven
+pgterms:marc906: '1925'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This file was produced from images generously made available by the library of the
+  Friedrich-Ebert-Stiftung.
+publication_note: '  $aBerlin :$bVorwärts-Verlag G. m. b. H., $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Die Baumwollpflücker : $b Als Fortsetzungsroman im »Vorwärts« (1925)'
+url: http://www.gutenberg.org/ebooks/75795
